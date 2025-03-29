@@ -1,0 +1,15 @@
+streamlit
+Pillow
+torch
+matplotlib
+numpy
+torchvision
+langchain
+google-generativeai
+langchain-google-genai
+langchain-community
+pydantic
+langchain-chroma
+langchain-core
+nltk
+pandas
