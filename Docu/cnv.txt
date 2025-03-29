@@ -1,0 +1,89 @@
+Choroidal Neovascularization (CNV): Comprehensive Overview
+1. Description
+Choroidal Neovascularization (CNV) is a condition where abnormal blood vessels form beneath the retina in the choroid layer. These new vessels are fragile and prone to leaking blood or fluid into the macula, leading to macular degeneration and severe vision impairment. CNV is commonly associated with diseases like age-related macular degeneration (AMD), but it can also result from other causes like high myopia, inflammation, or trauma.
+
+2. Types of CNV
+Classic CNV:
+This type appears as a well-defined, bright area under the retina when viewed through imaging tests. Classic CNV is often more aggressive and associated with rapid vision loss.
+Occult CNV:
+Occult CNV is less defined, appearing as a hazy area beneath the retina. It is usually associated with slower progression and a lesser degree of vision loss compared to classic CNV.
+Type 1 CNV (Sub-Retinal Pigment Epithelium):
+Vessels form under the retinal pigment epithelium (RPE) but above the Bruch’s membrane. It is commonly associated with occult CNV.
+Type 2 CNV (Sub-Retinal):
+Vessels grow above the RPE, making it more likely to progress rapidly. Type 2 CNV typically represents classic CNV.
+
+3. How CNV Occurs
+Response to Retinal Damage: When the retina is damaged (due to aging, high myopia, inflammation, etc.), the body attempts to compensate by growing new blood vessels in an attempt to supply nutrients. These vessels, however, are weak and often leak, leading to damage.
+Elevated VEGF Levels: Vascular Endothelial Growth Factor (VEGF), a protein that stimulates blood vessel growth, is often elevated in CNV. High VEGF levels drive the formation of abnormal vessels, making VEGF a target in CNV treatment.
+Underlying Diseases: Conditions like AMD, pathologic myopia, and certain inflammatory diseases can disrupt the choroid-retina barrier, initiating abnormal vessel growth.
+
+4. Identification and Diagnosis of CNV
+Comprehensive Eye Exam: The initial step includes a dilated eye exam to inspect the retina and identify abnormal vascular growth or leakage signs.
+Optical Coherence Tomography (OCT): OCT provides detailed cross-sectional imaging of the retina, allowing ophthalmologists to detect fluid accumulation or blood vessel growth beneath the retina.
+Fluorescein Angiography: A dye injected into the bloodstream helps highlight leaking blood vessels, enabling doctors to differentiate between types of CNV and assess the area affected.
+Indocyanine Green Angiography (ICGA): For deeper examination of the choroidal layer, ICGA is sometimes used to visualize blood flow and detect abnormal vessel growth in cases of occult CNV.
+
+5. Who Is at Risk for CNV?
+Age: CNV is commonly seen in older adults, particularly those with AMD.
+High Myopia: People with severe nearsightedness (high myopia) are at an increased risk, as the elongated shape of their eyes can strain and thin the retina, leading to CNV.
+Genetics and Family History: A family history of macular diseases like AMD increases the risk for CNV.
+Inflammatory Eye Conditions: Conditions like uveitis or multifocal choroiditis increase the risk of CNV by disrupting the retina-choroid interface.
+Trauma: Physical trauma or injury to the eye can sometimes trigger CNV development.
+Certain Lifestyle Factors: Smoking is a known risk factor for AMD-related CNV, as it accelerates retinal aging and increases oxidative stress.
+
+6. How to Identify and Diagnose CNV
+Ophthalmic Examination and History: Eye doctors assess any visual symptoms and review health history, especially with conditions that may predispose a patient to CNV.
+OCT Scanning: High-resolution images from OCT help assess fluid and blood vessel abnormalities beneath the retina, indicating CNV.
+Angiography: Both fluorescein and indocyanine green angiography allow visualization of the retina and choroid’s vascular structure, highlighting abnormal growth.
+
+7. Treatment Options for CNV
+Anti-VEGF Injections:
+Drugs like ranibizumab, aflibercept, and bevacizumab reduce VEGF activity, preventing the growth of abnormal vessels and minimizing fluid leakage. These injections are commonly administered every 4-8 weeks.
+Photodynamic Therapy (PDT):
+A photosensitizing agent (verteporfin) is injected, then activated by a low-power laser targeting abnormal blood vessels. This approach selectively damages these vessels, reducing leakage and preserving surrounding tissue.
+Laser Photocoagulation:
+A high-energy laser is used to seal off leaky blood vessels. It’s generally limited to specific CNV cases due to risks of collateral damage to surrounding retinal tissues.
+Surgical Options:
+For severe cases with extensive blood leakage or retinal detachment, surgery may be necessary. However, surgery is rarely the first option due to potential complications.
+
+8. Prevention of CNV and Lifestyle Modifications
+Control Underlying Conditions:
+Effective management of diseases like AMD, myopia, and inflammatory conditions is essential in lowering CNV risk. Regular monitoring by an ophthalmologist is crucial.
+Antioxidant-Rich Diet:
+A diet high in antioxidants (e.g., vitamins A, C, and E) may help reduce oxidative stress on the retina. Leafy greens, berries, and nuts are beneficial.
+Blood Pressure Management:
+Keeping blood pressure in check helps maintain retinal health, as hypertension can exacerbate retinal issues.
+Quit Smoking:
+Smoking significantly increases the risk of CNV and AMD progression. Stopping smoking reduces oxidative damage to the eyes.
+UV Protection:
+UV-blocking sunglasses protect eyes from sunlight exposure, which can contribute to retinal aging.
+
+9. Dietary and Lifestyle Recommendations for CNV Patients
+Leafy Green Vegetables:
+Spinach, kale, and other dark greens contain lutein and zeaxanthin, antioxidants that support retinal health.
+Omega-3 Fatty Acids:
+Fish like salmon, as well as flaxseeds and walnuts, contain omega-3s that support vascular health and reduce inflammation.
+Berries and Citrus Fruits:
+These fruits are rich in vitamin C, which can help reduce oxidative damage to the retina.
+Limit Processed Foods and Sugars:
+Excessive sugar can affect eye health by worsening blood glucose control, particularly in diabetic patients.
+Stay Active:
+Regular physical activity improves circulation and overall vascular health, which benefits retinal and choroidal circulation.
+Annual Eye Exams:
+Routine eye exams are vital for those at risk, as they allow for early detection and treatment of CNV.
+
+10. What to Do if Affected by CNV
+Regular Monitoring:
+Patients with CNV should have frequent follow-up visits with their ophthalmologist to monitor treatment efficacy and any changes in the condition. Eye exams every 4-6 weeks are often recommended, especially during treatment.
+Adhere to Treatment Plan:
+Compliance with anti-VEGF injections, laser treatments, or other prescribed therapies is critical to prevent further vision loss.
+Use of Low Vision Aids:
+Vision impairment can be managed with tools like magnifiers, reading aids, and special lighting to assist with daily tasks.
+Monitor Symptoms at Home:
+Regularly checking for changes in vision, such as distortion, blurriness, or dark spots, is essential. An Amsler grid can help detect subtle changes.
+Support Networks and Counseling:
+Dealing with potential vision loss can be emotionally challenging. Support groups or counseling can provide mental support and resources.
+Lifestyle and Dietary Management:
+Ongoing dietary adjustments and quitting smoking are crucial for minimizing CNV progression. Adhering to a balanced diet and exercise routine benefits overall eye health.
+UV Protection and Eye Safety:
+Wearing UV-blocking sunglasses and protective eyewear when necessary can help protect against additional damage to the retina.
